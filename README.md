@@ -25,4 +25,4 @@ Ferramentas:
 
 ## Site ##
 
-[link para resultado final do site](https://angelcomp.github.io/portfolio/index.html)
+[link para resultado final do site](https://angelcomp.github.io/gas-vs-eletric/)
