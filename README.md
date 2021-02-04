@@ -1,4 +1,4 @@
-**Carros Elétricos vs Carros a Combustão!**
+# Carros Elétricos vs Carros a Combustão! #
 
 
 Projeto de site simples elaborado para aprendizado nas frameworks Bootstrap e jQuery.
@@ -25,4 +25,4 @@ Ferramentas:
 
 ## Site ##
 
-[link site](https://angelcomp.github.io/portfolio/index.html)
+[link para resultado final do site](https://angelcomp.github.io/portfolio/index.html)
