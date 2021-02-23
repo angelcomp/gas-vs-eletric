@@ -3,7 +3,6 @@
 
 Projeto de site simples elaborado para aprendizado nas frameworks Bootstrap e jQuery.
 
------------- 
 
 Autora:
 - Angelica dos Santos
@@ -21,8 +20,7 @@ Ferramentas:
 - Live Server (Extensão VS Code)
 - Github (Versionamento de Código)
 
------------- 
 
 ## Site ##
 
-[link para resultado final do site](https://angelcomp.github.io/gas-vs-eletric/)
+[clique para ver o resultado final](https://angelcomp.github.io/gas-vs-eletric/)
